@@ -3,7 +3,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 	<meta>
-	<title>Next Prayer</title>
+	<title>Next</title>
     <meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
 
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
